@@ -1,2 +1,2 @@
 # vision-learning.github.io
-academic/ personal blog
+academic/personal blog
